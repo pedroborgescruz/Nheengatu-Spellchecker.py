@@ -1,6 +1,6 @@
 # Um autocorretor para Nheengatu
 
-💾 🎲 A few games to play that were coded using Python.
+💬 🖥️ Um corretor de texto baseado em ML para Nheengatu.
 
-👨‍💻 **Author:** Pedro Borges Cruz (pedroborgespc@gmail.com)
+👨‍💻 **Autor:** Pedro Borges Cruz (pedroborgespc@gmail.com)
 
